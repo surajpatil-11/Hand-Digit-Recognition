@@ -1,7 +1,7 @@
 import numpy as np
-from math import sqrt
 import matplotlib.pyplot as plt
 import pandas as pd
+from math import sqrt
 
 
 # finding distance in n dimension here n is 784
